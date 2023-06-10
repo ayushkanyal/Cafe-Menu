@@ -1,0 +1,37 @@
+body {
+    background: url("https://shorturl.at/yzBN4");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+/*Menu */
+.menu   {
+    background-color: burlywood;
+    width: 50%;
+    margin-left: 25%;
+    padding: 2%;
+}
+.menu h1 h2{
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: Impact;
+    margin: 0%;
+}
+hr {
+    height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+.flavor {
+    
+    text-align: left;   
+}
+.price {
+    
+    text-align: right;
+}
+.item {
+    display: flex;
+    justify-content: space-between;
+}
